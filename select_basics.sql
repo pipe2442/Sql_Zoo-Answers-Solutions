@@ -8,4 +8,4 @@ SELECT name, population FROM world
 
 /* 3 problem */
 SELECT name, area FROM world
-  WHERE area BETWEEN 200000 AND 250000
+  WHERE area BETWEEN 200000 AND 250000 
