@@ -3,20 +3,18 @@
 ## Sql Zoo Answers
 ![Hireable](https://cdn.rawgit.com/hiendv/hireable/master/styles/default/yes.svg)
 
-![demo](./assets/finalcomplete.gif)
+![logo](./assets/sqlzooscreen.png)
 
 This is a basic project to share my solution for the [Sql Zoo project](https://sqlzoo.net/wiki/SQL_Tutorial)
 
 This project has been developed to accomplish the Databse module project at Microverse.
-
-![screenshot]()
 
 ## Built With
 
 - [SQL](https://www.mysql.com/).
   
 # Project Screenshot
-![screenshot]()
+![screenshot](./assets/SQLZOOPROJECT.PNG)
 
 ## Authors
 
@@ -30,7 +28,7 @@ This project has been developed to accomplish the Databse module project at Micr
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/pipe2442/Linter/issues).
+Feel free to check the [issues page](https://github.com/pipe2442/Sql_Zoo-Answers-Solutions/issues).
 
 ## Show your support
 
